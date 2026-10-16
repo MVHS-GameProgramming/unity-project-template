@@ -54,8 +54,8 @@ When your feature is ready to merge:
 2. Go to the repository on GitHub
 3. Click **Compare & pull request**
 4. Write a short description of what your PR does
-5. Assign your teammate as a reviewer
-6. Wait for approval before merging
+5. Submit the pull request
+6. Review your own changes in the Files Changed tab — catch anything you missed
 7. **Squash and merge** into `main`
 8. Delete your branch after merging
 
