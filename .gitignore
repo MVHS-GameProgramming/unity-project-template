@@ -110,3 +110,44 @@ InitTestScene*.unity*
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
+
+
+# Binary Assets — managed via MVHS Asset Pipeline Manager
+# These files are distributed as .unitypackage exports, NOT committed to Git.
+# Only the corresponding .meta files are tracked (they carry Unity GUIDs).
+
+# Textures
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.psd
+*.bmp
+*.exr
+*.hdr
+*.tiff
+*.tif
+
+# Audio
+*.wav
+*.mp3
+*.ogg
+*.aiff
+*.aif
+
+# 3D Models
+*.fbx
+*.obj
+*.blend
+*.dae
+*.3ds
+
+# Fonts
+*.ttf
+*.otf
+
+# Video
+*.mp4
+*.mov
+*.avi
+*.webm
